@@ -512,6 +512,7 @@ footer {
     padding: 15px;
     border-radius: 3px;
     text-align: left;
+    opacity: 0;
 
     h3 {
         font-size: 1.5em;
@@ -540,7 +541,6 @@ footer {
     display: block;
     vertical-align: top;
     margin-bottom: 30px;
-    opacity: 0;
 }
 
 .vtimeline-icon {

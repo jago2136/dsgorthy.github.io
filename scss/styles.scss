@@ -532,6 +532,7 @@ footer {
         color: $text;
         font-size: 0.9em;
         margin: 0;
+        opacity: 0;
     }
 }
 
@@ -540,7 +541,6 @@ footer {
     display: block;
     vertical-align: top;
     margin-bottom: 30px;
-    opacity: 0;
 }
 
 .vtimeline-icon {

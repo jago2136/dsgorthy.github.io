@@ -76,11 +76,7 @@
 
     });
 
-    $(function(){  // $(document).ready shorthand
-      $('#experience-timeline').fadeIn('slow');
-    });
-
-    $(document).ready(function() {
+    $('#experience-timeline').ready(function() {
         
         /* Every time the window is scrolled ... */
         $(window).scroll( function(){
